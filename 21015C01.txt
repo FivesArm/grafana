@@ -27,7 +27,7 @@
 ## Name or JSON of layout. Possible values are auto, none, verticaltree, horizontaltree,verticalflow, horizontalflow, organic, circle or a JSON string as used in Layout, Apply.Default is auto.
 # layout: horizontalflow
 ## ---- CSV below this line. First line are column names. ----
-poney,Mq,Ordre_de_fabrication,Article,Référence_document,Libellé,Stade,type,OF_Pere,Dépôt,Date_de_début_demandée,Date_de_fin_demandée,Date_de_début_actuelle_jalonnée,Datedefinactuellejalonnée,Quantitélancéethéorique,Quantiténettethéorique,Unité,Plan,Typedegestion,Annéedecréation,Complet_pour_Fab,Fabricationencours,Fabrication_terminée,OF_de_pointage
+poney,Mq,Ordre_de_fabrication,Article,Référence_document,Libelle,Stade,type,OF_Pere,Dépôt,Date_de_début_demandée,Date_de_fin_demandée,Date_de_début_actuelle_jalonnée,Datedefinactuellejalonnée,Quantitélancéethéorique,Quantiténettethéorique,Unité,Plan,Typedegestion,Annéedecréation,Complet_pour_Fab,Fabricationencours,Fabrication_terminée,OF_de_pointage
 ,,00013235,0000001047129,21015C01,OPERATION HYDRAULIQUE,Planifié,O.F. Normal,,,0101,,18/06/2021,15/06/2021,18/06/2021,"1,000","1,000",,,,,PIE,François DUCLOUX,,,AFF,,,,OF,Coût de l_O.F. Pré-établi théo,,2021,Décoché,Indéterminé,Indéterminé,Indéterminé,Coché
 ,,00013234,0000001047127,21015C01,OPERATION CABLAGE,Planifié,O.F. Normal,,CAB,0101,,18/06/2021,17/06/2021,18/06/2021,"1,000","1,000",,,,,PIE,François DUCLOUX,,,AFF,,,,OF,Coût de l_O.F. Pré-établi théo,,2021,Décoché,Indéterminé,Indéterminé,Indéterminé,Coché
 ,,00013233,0000001047126,21015C01,OPERATION BRASAGE,Planifié,O.F. Normal,,BRA,0101,,18/06/2021,16/06/2021,18/06/2021,"1,000","1,000",,,,,PIE,François DUCLOUX,,,AFF,,,,OF,Coût de l_O.F. Pré-établi théo,,2021,Décoché,Indéterminé,Indéterminé,Indéterminé,Coché
